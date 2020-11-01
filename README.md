@@ -16,6 +16,10 @@ Annotations what could've been important are marked as "TODO:"/"FIXME:". In addi
 - `npm run build:serve:ssr:webpack`
 - Now the app will break with error `ReferenceError: window is not defined`, which means that the `applyDomino works on this version of @nestjs/ng-universal`
 
+## Agastya API key
+
+The `ditectrev-70d3b` API key will stop working after some time, therefore please create your own at [https://admin.oswaldlabs.com](https://admin.oswaldlabs.com/)
+
 # Nest & Angular Universal Starter
 
 A minimal [**Nest**](https://github.com/nestjs/nest) and Angular starter for Universal using the
